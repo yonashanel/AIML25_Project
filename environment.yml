@@ -1,0 +1,44 @@
+name: aiml25_project_env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.11
+  - pip
+  - ipykernel=6.29.5
+  - ipython
+  - jupyter
+  - imageio=2.36.1
+  - matplotlib=3.10.0
+  - numpy=2.2.1
+  - pytorch=2.5.1
+  - torchvision=0.20.1
+  - pandas
+  - python-decouple
+  - fastparquet
+  - huggingface_hub
+  - ipywidgets=8.1.5
+  - tqdm=4.67.1
+  - scikit-learn=1.6.0
+  - pre-commit
+  - transformers
+  - datasets
+  - langchain-community
+  - markdown
+  - markupsafe
+  - nbclient
+  - nbformat
+  - pip:
+      - ibm-watsonx-ai==1.2.9
+      - chromadb
+      - duckduckgo-search
+      - instructor
+      - langchain
+      - langchain-chroma
+      - langchain-core
+      - langchain-ibm
+      - langchain-text-splitters
+      - langgraph
+      - litellm
+      - requests
