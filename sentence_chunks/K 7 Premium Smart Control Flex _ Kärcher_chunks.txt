@@ -1,0 +1,324 @@
+## Figure Description
+
+The image is a cropped section from a document featuring the logo of the company "Kärcher." The logo is prominently displayed in bold, black uppercase letters: "KÄRCHER." Below the text, there is a yellow horizontal line, which is a distinctive part of the brand's logo design. In the top left corner, there is a timestamp indicating the date and time: "26/04/2025, 17:53." This suggests that the document or image was created or modified at this specific date and time.
+
+This suggests that the document or image was created or modified at this specific date and time. The overall design is simple, with a focus on the brand name and the timestamp, providing a clear and direct representation of the company's branding. <!-- figure, from page 0 (l=0.039,t=0.019,r=0.223,b=0.061), with ID 142f20a0-4ebd-4d98-a35d-ee8ff2feb946 -->
+
+## K 7 Premium Smart Control Flex | Kärcher
+
+This is a page header indicating the title of a product, specifically the "K 7 Premium Smart Control Flex" by Kärcher. <!--.
+
+<!-- page_header, from page 0 (l=0.452,t=0.019,r=0.705,b=0.028), with ID 725ee357-cc49-4283-b854-777f7c383528 -->
+
+# K 7 PREMIUM SMART CONTROL FLEX <!-- title, from page 0 (l=0.065,t=0.080,r=0.647,b=0.100), with ID c8a9caa7-64d4-414e-9c21-cf063666c33f -->
+
+Für mehr Power: K 7 Premium Smart Control Flex-Hochdruckreiniger mit PremiumFlex-Schlauch und G 180 Q Smart Control-Pistole für hartnäckige Verschmutzungen auf Terrassen, Wegen und Autos. <!-- text, from page 0 (l=0.064,t=0.121,r=0.924,b=0.148), with ID 69eab8e5-0844-46b5-a5d3-72056711e1e2 -->
+
+## Text Content
+
+**GIGANTISCH REINIGEN.
+
+text, from page 0 (l=0.064,t=0.121,r=0.924,b=0.148), with ID 69eab8e5-0844-46b5-a5d3-72056711e1e2 -->
+
+## Text Content
+
+**GIGANTISCH REINIGEN. GIGANTISCH WASSER SPAREN.** Jetzt bis zu *70 EUR Cashback* sichern. [Aktionsbedingungen gelten.](#) <!--.
+
+<!-- text, from page 0 (l=0.080,t=0.200,r=0.766,b=0.227), with ID b0280335-514b-426f-8906-bb0ba77acb67 -->
+
+## Description
+
+The image shows a Kärcher K7 Smart Control pressure washer. It features a sleek design with a combination of yellow and black colors. The main unit is equipped with large wheels for easy mobility and a handle for convenient transport. The pressure washer has a digital display on the handle, indicating its smart control capabilities.
+
+The pressure washer has a digital display on the handle, indicating its smart control capabilities. The Kärcher logo is prominently displayed on the front of the unit. The pressure washer comes with an attached spray gun and a separate lance. The lance is black with yellow accents and is labeled "K7" to match the main unit. The design suggests a focus on user-friendly operation and advanced technology for efficient cleaning tasks.
+
+The design suggests a focus on user-friendly operation and advanced technology for efficient cleaning tasks. <!-- figure, from page 0 (l=0.065,t=0.251,r=0.934,b=0.925), with ID 690b8e34-01dd-4c69-9f3e-969c7fa017a6 -->
+
+## Page Footer
+
+[https://www.kaercher.com/de/home-garden/hochdruckreiniger/k-7-premium-smart-control-flex-13173600.html](https://www.kaercher.com/de/home-garden/hochdruckreiniger/k-7-premium-smart-control-flex-13173600.html) <!-- page_footer, from page 0 (l=0.039,t=0.972,r=0.686,b=0.981), with ID a3a9b3a3-a733-4aab-a0a4-5af95f8b4300 -->
+
+### Page Number
+
+1/15 <!-- page_number, from page 0 (l=0.932,t=0.972,r=0.959,b=0.980), with ID c07f27f4-60fe-4a02-9ae7-b26e3da27ec6 -->
+
+## Page Header
+
+- **Date and Time**: 26/04/2025, 17:53
+
+This crop from a document header displays a date and time.
+
+page_number, from page 0 (l=0.932,t=0.972,r=0.959,b=0.980), with ID c07f27f4-60fe-4a02-9ae7-b26e3da27ec6 -->
+
+## Page Header
+
+- **Date and Time**: 26/04/2025, 17:53
+
+This crop from a document header displays a date and time. <!-- page_header, from page 1 (l=0.039,t=0.019,r=0.147,b=0.027), with ID e98758a5-4ac0-47f8-8ac3-52be1c257328 -->
+
+## K 7 Premium Smart Control Flex | Kärcher <!-- page_header, from page 1 (l=0.451,t=0.019,r=0.705,b=0.028), with ID 4b8b117f-4fc9-4e5b-ac60-c041042e472a -->
+
+## Price Information
+
+- **Price**: 624,99 €
+- **Details**: inkl. MwSt. -.
+
+MwSt. - kostenlose Lieferung ab 50 € <!-- key_value, from page 1 (l=0.087,t=0.049,r=0.402,b=0.100), with ID 98b2ac6f-020a-4a1e-b17e-bdfb890aede6 -->
+
+## Text Information
+
+- **Lieferbar in**: 2-3 Werktagen
+- **Bestellnummer**: 1.317-360.0 <!-- key_value, from page 1 (l=0.087,t=0.133,r=0.300,b=0.165), with ID 71fc2163-36fe-49a1-af3c-609a4810fa48 -->
+
+## Händlersuche
+
+- **Ort oder PLZ**: [ ] (Input field for location or postal code) <!-- form, from page 1 (l=0.086,t=0.209,r=0.390,b=0.260), with ID 01f5f854-4a03-416b-9ae6-16b11d10ee90 -->
+
+## Product Rating
+
+- **Rating**: 4.8 out of 5 stars
+- **Number of Reviews**: 70
+- **Action**: Jetzt Produkt bewerten (Rate this product now) <!--.
+
+form, from page 1 (l=0.086,t=0.209,r=0.390,b=0.260), with ID 01f5f854-4a03-416b-9ae6-16b11d10ee90 -->
+
+## Product Rating
+
+- **Rating**: 4.8 out of 5 stars
+- **Number of Reviews**: 70
+- **Action**: Jetzt Produkt bewerten (Rate this product now) <!-- form, from page 1 (l=0.099,t=0.293,r=0.499,b=0.316), with ID ec922084-161e-4392-af81-e4de80165225 -->
+
+## Produkt vergleichen
+
+The image contains the German text "Produkt vergleichen," which translates to "Compare product" in English. There are no checkboxes, radio buttons, or additional formatting elements present. <!-- text, from page 1 (l=0.084,t=0.353,r=0.255,b=0.365), with ID 01f8f4d5-8f5c-4f02-a105-cddec168515e -->
+
+## Text Information
+
+Benötigen Sie Hilfe?
+
+text, from page 1 (l=0.084,t=0.353,r=0.255,b=0.365), with ID 01f8f4d5-8f5c-4f02-a105-cddec168515e -->
+
+## Text Information
+
+Benötigen Sie Hilfe? Hotline: +49 7195 903 0 <!-- key_value, from page 1 (l=0.087,t=0.404,r=0.270,b=0.430), with ID b4e2a11d-1fab-4659-b08c-ce600a53dc35 -->
+
+## Text
+
+Einfach den K 7 Premium Smart Control Flex-Hochdruckreiniger via Bluetooth mit der Kärcher Home & Garden App auf dem Smartphone verbinden – und schon wird die Reinigung noch müheloser und effizienter. Denn der in der App enthaltene Anwendungsberater gibt praktische Tipps und Tricks zu vielen Reinigungssituationen und Reinigungsobjekten. Darüber hinaus bietet die App noch viele weitere nützliche Funktionen wie zum Beispiel eine Aufbauanleitung, Wartungs- und Pflegehinweise sowie das Kärcher Serviceportal.
+
+Darüber hinaus bietet die App noch viele weitere nützliche Funktionen wie zum Beispiel eine Aufbauanleitung, Wartungs- und Pflegehinweise sowie das Kärcher Serviceportal. Ebenfalls praktisch: Das Gerät verfügt über einen Boost Mode für extra Power – damit auch hartnäckiger Schmutz kein Thema ist. Die Druckstufen lassen sich sowohl an der G 180 Q Smart Control-Pistole mit LCD-Display einstellen als auch mit Hilfe des Anwendungsberaters via App auf die Pistole übertragen – damit bei der Reinigung nichts mehr schiefgehen kann. Weitere Ausstattungsdetails sind das 3-in-1-Multi Jet-Strahlrohr für vielseitige Einsätze ohne Strahlrohrwechsel, der PremiumFlex-Hochdruckschlauch, das Plug 'n' Clean-Reinigungssystem, der hochwertige Aluminium-Teleskopgriff und die Parkposition für griffbereites Zubehör. <!--.
+
+<!-- text, from page 1 (l=0.062,t=0.542,r=0.932,b=0.705), with ID ea967a0c-1ef8-4adc-b6ba-4ceb010cc780 -->
+
+## Merkmale und Vorteile <!-- text, from page 1 (l=0.064,t=0.732,r=0.283,b=0.742), with ID c86bdc7e-e8dd-45d0-ad9b-e1064247bae1 -->
+
+## Page Footer
+
+[https://www.kaercher.com/de/home-garden/hochdruckreiniger/k-7-premium-smart-control-flex-13173600.html](https://www.kaercher.com/de/home-garden/hochdruckreiniger/k-7-premium-smart-control-flex-13173600.html) <!-- page_footer, from page 1 (l=0.039,t=0.972,r=0.686,b=0.981), with ID e5f1eab4-58eb-4aa3-915a-0120e255f400 -->
+
+## Page Number
+
+2/15 <!-- page_number, from page 1 (l=0.931,t=0.972,r=0.959,b=0.980), with ID c5575a38-0eed-44c1-9112-c6d24f8a1a5e -->
+
+### Page Header
+
+- **Date and Time**: 26/04/2025, 17:53
+
+This crop from a document's page header displays a date and time, formatted as day/month/year and a 24-hour time.
+
+page_number, from page 1 (l=0.931,t=0.972,r=0.959,b=0.980), with ID c5575a38-0eed-44c1-9112-c6d24f8a1a5e -->
+
+### Page Header
+
+- **Date and Time**: 26/04/2025, 17:53
+
+This crop from a document's page header displays a date and time, formatted as day/month/year and a 24-hour time. <!-- page_header, from page 0 (l=0.039,t=0.018,r=0.147,b=0.027), with ID 18d3e898-47db-4170-8a89-c47f930c8a29 -->
+
+## K 7 Premium Smart Control Flex | Kärcher
+
+This is a page header indicating the product name and brand. <!-- page_header, from page 0 (l=0.451,t=0.019,r=0.705,b=0.028), with ID 624928b7-bf41-4d1f-a95a-e8a9858833e0 -->
+
+## Description
+
+The image shows a person holding a smartphone in their hands.
+
+page_header, from page 0 (l=0.451,t=0.019,r=0.705,b=0.028), with ID 624928b7-bf41-4d1f-a95a-e8a9858833e0 -->
+
+## Description
+
+The image shows a person holding a smartphone in their hands. The phone screen displays a product page for a pressure washer. The product is labeled as "K 7 Premium Smart Control" and is shown in a yellow and black color scheme. The background features a blurred view of a yellow pressure washer, which appears to be the same model as the one displayed on the phone screen. The setting is outdoors, with a wooden deck and greenery visible in the background.
+
+The setting is outdoors, with a wooden deck and greenery visible in the background. The person is using their right hand to interact with the phone, possibly scrolling or selecting an option on the screen. The phone interface includes various icons and text, suggesting it might be an app or a website related to the product. <!-- figure, from page 0 (l=0.062,t=0.032,r=0.935,b=0.649), with ID 82341e44-357d-45bf-8189-471e77fdfed4 -->
+
+## Bluetoothverbindung zur Home & Garden App
+
+Die Kärcher Home & Garden App macht Sie zum Reinigungsexperten.
+
+figure, from page 0 (l=0.062,t=0.032,r=0.935,b=0.649), with ID 82341e44-357d-45bf-8189-471e77fdfed4 -->
+
+## Bluetoothverbindung zur Home & Garden App
+
+Die Kärcher Home & Garden App macht Sie zum Reinigungsexperten. Nutzen Sie unser großes Kärcher Wissen für das perfekte Reinigungsergebnis. Die App übermittelt via Bluetooth den optimalen Druck an den Hochdruckreiniger. <!-- text, from page 0 (l=0.064,t=0.650,r=0.930,b=0.696), with ID 1198202d-5f80-4ec3-91a9-fd3cc1641eca -->
+
+## Plug 'n' Clean - das Kärcher Reinigungsmittelsystem
+
+- Schnell, einfach, komfortabel – dank Plug 'n' Clean lässt sich das Reinigungsmittel mit nur einem Handgriff bequem austauschen.
+
+text, from page 0 (l=0.064,t=0.650,r=0.930,b=0.696), with ID 1198202d-5f80-4ec3-91a9-fd3cc1641eca -->
+
+## Plug 'n' Clean - das Kärcher Reinigungsmittelsystem
+
+- Schnell, einfach, komfortabel – dank Plug 'n' Clean lässt sich das Reinigungsmittel mit nur einem Handgriff bequem austauschen. <!-- text, from page 0 (l=0.081,t=0.726,r=0.891,b=0.778), with ID 9459fac2-41be-4dc3-b329-b43142ef803a -->
+
+## Schlauchtrommel für komfortable Handhabung
+
+- Der Hochdruckschlauch ist optimal geschützt und platzsparend verstaut. - Bequemes Arbeiten: Jederzeit griffbereiter Schlauch durch leichtes Auf- und Abrollen. <!--.
+
+<!-- text, from page 0 (l=0.081,t=0.815,r=0.746,b=0.891), with ID f1326cf4-92a7-4368-af14-b8d7e5b90225 -->
+
+## Überragende Leistung <!-- text, from page 0 (l=0.081,t=0.927,r=0.246,b=0.939), with ID 6bdc5c85-01bb-4387-8494-2337ca814fa0 -->
+
+## Page Footer
+
+https://www.kaercher.com/de/home-garden/hochdruckreiniger/k-7-premium-smart-control-flex-13173600.html <!-- page_footer, from page 0 (l=0.039,t=0.972,r=0.686,b=0.981), with ID 444c9d60-327d-4d59-8bcf-9f8757131294 -->
+
+### Page Number
+
+5/15 <!-- page_number, from page 0 (l=0.931,t=0.972,r=0.959,b=0.980), with ID 3a7a6147-62db-4985-b02f-094b8d245a6c -->
+
+## Page Header
+
+26/04/2025, 17:53 <!--.
+
+page_number, from page 0 (l=0.931,t=0.972,r=0.959,b=0.980), with ID 3a7a6147-62db-4985-b02f-094b8d245a6c -->
+
+## Page Header
+
+26/04/2025, 17:53 <!-- page_header, from page 1 (l=0.039,t=0.019,r=0.147,b=0.027), with ID ef5988c0-466c-41d1-a24b-e96b78153cb7 -->
+
+## K 7 Premium Smart Control Flex | Kärcher
+
+This is a page header indicating the title of a product, "K 7 Premium Smart Control Flex" by Kärcher. <!-- page_header, from page 1 (l=0.451,t=0.019,r=0.705,b=0.028), with ID f8f79cea-3ce9-4718-887d-78a667d499eb -->
+
+- Der wassergekühlte Motor besticht durch seine besondere Langlebigkeit und Leistungsfähigkeit. <!--.
+
+<!-- text, from page 1 (l=0.084,t=0.044,r=0.818,b=0.057), with ID cb4b4ca2-7e08-43b5-aa07-a13135ba9b7b -->
+
+## SPEZIFIKATIONEN <!-- text, from page 1 (l=0.064,t=0.092,r=0.210,b=0.103), with ID cc06db79-717b-410a-b605-388244d6d1ea -->
+
+## Technische Daten
+
+- Stromart (V/Hz): 230 / 50
+- Druck (bar/MPa): 20 - max. 180 / 2 - max. 18
+- Fördermenge (l/h): max.
+
+18
+- Fördermenge (l/h): max. 600
+- Flächenleistung (m²/h): 60
+- Zulauftemperatur (°C): max. 60
+- Anschlussleistung (kW): 3
+- Anschlusskabel (m): 5
+- Farbe: gelb
+- Gewicht ohne Zubehör (kg): 17,8
+- Gewicht inkl. Verpackung (kg): 23
+- Abmessungen (L × B × H) (mm): 459 × 330 × 669 <!-- key_value, from page 1 (l=0.064,t=0.141,r=0.742,b=0.593), with ID 454a8206-8524-4bb1-882f-55917b0ec44c -->
+
+## Lieferumfang
+
+- Hochdruckpistole: G 180 Q Smart Control
+- Multi Jet 3-in-1
+- HD-Schlauch: 10 m, PremiumFlex
+- Adapter Gartenschlauchanschluss A3/4" <!--.
+
+key_value, from page 1 (l=0.064,t=0.141,r=0.742,b=0.593), with ID 454a8206-8524-4bb1-882f-55917b0ec44c -->
+
+## Lieferumfang
+
+- Hochdruckpistole: G 180 Q Smart Control
+- Multi Jet 3-in-1
+- HD-Schlauch: 10 m, PremiumFlex
+- Adapter Gartenschlauchanschluss A3/4" <!-- text, from page 1 (l=0.064,t=0.624,r=0.410,b=0.778), with ID ed354ac8-6b0b-495a-a5af-ec10a618b98a -->
+
+## Ausstattung
+
+- Integrierte HD-Schlauchtrommel
+- Integriertes Aufbewahrungsnetz
+- Geräteseitiges Quick Connect <!-- text, from page 1 (l=0.064,t=0.815,r=0.348,b=0.932), with ID 6c8bc9fb-c8e0-40f8-bf82-713a06a89bfb -->
+
+## Page Footer
+
+https://www.kaercher.com/de/home-garden/hochdruckreiniger/k-7-premium-smart-control-flex-13173600.html <!-- page_footer, from page 1 (l=0.039,t=0.972,r=0.686,b=0.981), with ID 7383cd04-6c92-47b5-a0d1-2f2d99196709 -->
+
+### Page Footer
+
+The image shows the text "6/15". <!--.
+
+<!-- page_footer, from page 1 (l=0.931,t=0.972,r=0.959,b=0.980), with ID 0a19e936-f2b0-44a9-9795-3c5736ee0f09 -->
+
+## Page Header
+
+- **Date and Time**: 26/04/2025, 17:53
+
+This crop from a document header displays a date and time, formatted as day/month/year and hour:minute. <!-- page_header, from page 0 (l=0.039,t=0.019,r=0.147,b=0.027), with ID 423a4de7-de9e-4fd8-baef-6526d5a94b0d -->
+
+## K 7 Premium Smart Control Flex | Kärcher
+
+This is a page header indicating the product name and brand. The text is formatted as a subheading, suitable for a section title in a document.
+
+The text is formatted as a subheading, suitable for a section title in a document. <!-- page_header, from page 0 (l=0.452,t=0.019,r=0.705,b=0.028), with ID 8121f30d-dbe2-46dc-a30c-521455d79938 -->
+
+## Text Content
+
+- Terrasse
+- Zäune
+- Garten- und Steinmauern
+- Flächen rund um Haus und Garten
+- Autos
+- Wohnmobile
+- Fahrräder
+- Motorräder und -roller
+- Gartengeräte und -werkzeuge
+- Garten-/Terrassen-/Balkonmöbel <!-- text, from page 0 (l=0.084,t=0.045,r=0.358,b=0.381), with ID 540ca562-3cd7-492a-a0ef-3a6ea632e09e -->
+
+## K 7 Premium Smart Control Flex Ersatzteile <!-- text, from page 0 (l=0.064,t=0.470,r=0.471,b=0.481), with ID ad6eecbe-a65e-49fe-8379-6088cef46881 -->
+
+## KÄRCHER ORIGINAL-ERSATZTEILE
+
+Egal, wo Sie Ihr Kärcher-Gerät gekauft haben, Sie können sich im Reparaturfall an jeden [Kärcher-Fachhändler](#) in Ihrer Nähe wenden.
+
+text, from page 0 (l=0.064,t=0.470,r=0.471,b=0.481), with ID ad6eecbe-a65e-49fe-8379-6088cef46881 -->
+
+## KÄRCHER ORIGINAL-ERSATZTEILE
+
+Egal, wo Sie Ihr Kärcher-Gerät gekauft haben, Sie können sich im Reparaturfall an jeden [Kärcher-Fachhändler](#) in Ihrer Nähe wenden. Ersatzteile dürfen lediglich von ausgebildetem Fachpersonal getauscht werden. Bitte beachten Sie [die Garantiebedingungen](#). <!-- text, from page 0 (l=0.064,t=0.518,r=0.916,b=0.583), with ID 492b4fcf-18a3-4bc5-a83b-059add2d8587 -->
+
+## HOME & GARDEN GERÄTE
+
+- Ihr Kärcher-Gerät können Sie über den Online-Reparaturservice im myKärcher Kundenportal einschicken.
+
+text, from page 0 (l=0.064,t=0.518,r=0.916,b=0.583), with ID 492b4fcf-18a3-4bc5-a83b-059add2d8587 -->
+
+## HOME & GARDEN GERÄTE
+
+- Ihr Kärcher-Gerät können Sie über den Online-Reparaturservice im myKärcher Kundenportal einschicken. Alternativ können Sie Ihr Ersatzteil einfach und bequem in unserem Onlineshop bestellen. <!-- text, from page 0 (l=0.064,t=0.596,r=0.894,b=0.645), with ID 8f7180ef-ed88-403c-98dc-28e6f36f238b -->
+
+## PROFESSIONAL GERÄTE
+
+- Kleingeräte können Sie über das myKärcher Kundenportal einschicken. Alternativ können Sie Ihr Ersatzteil einfach und bequem in unserem Onlineshop bestellen.
+
+Alternativ können Sie Ihr Ersatzteil einfach und bequem in unserem Onlineshop bestellen. - Großgeräte oder Installationen können Sie vor Ort von unserem Werkskundendienst reparieren lassen. - Informationen zu unseren Ersatzteilen können Sie in unserer Ersatzteilliste nachlesen. <!-- text, from page 0 (l=0.064,t=0.658,r=0.904,b=0.738), with ID 486155de-89a2-4d48-9d11-65f086f0d392 -->
+
+## Page Footer
+
+[https://www.kaercher.com/de/home-garden/hochdruckreiniger/k-7-premium-smart-control-flex-13173600.html](https://www.kaercher.com/de/home-garden/hochdruckreiniger/k-7-premium-smart-control-flex-13173600.html) <!--.
+
+text, from page 0 (l=0.064,t=0.658,r=0.904,b=0.738), with ID 486155de-89a2-4d48-9d11-65f086f0d392 -->
+
+## Page Footer
+
+[https://www.kaercher.com/de/home-garden/hochdruckreiniger/k-7-premium-smart-control-flex-13173600.html](https://www.kaercher.com/de/home-garden/hochdruckreiniger/k-7-premium-smart-control-flex-13173600.html) <!-- page_footer, from page 0 (l=0.039,t=0.972,r=0.686,b=0.981), with ID 0af32838-4a32-468e-b761-32d51d4a5176 -->
+
+## Page Number
+
+9/15 <!-- page_number, from page 0 (l=0.931,t=0.972,r=0.959,b=0.980), with ID 57106b4c-da7b-4581-a647-2b8ff547292a -->.
+

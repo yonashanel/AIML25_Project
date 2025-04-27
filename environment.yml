@@ -1,4 +1,4 @@
-name: aiml25_project_env
+name: aiml25_finalproject_env 
 channels:
   - conda-forge
   - defaults
@@ -22,6 +22,11 @@ dependencies:
   - python-decouple
   - tqdm
   - pre-commit
+
+  # spaCy core + transformers support
+  - spacy
+  - spacy-transformers
+
   - pip:
       - ibm-watsonx-ai==1.2.9
       - chromadb
@@ -35,3 +40,6 @@ dependencies:
       - langgraph
       - litellm
       - requests
+      # spaCy extras
+      - spacy-lookups-data
+
